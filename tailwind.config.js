@@ -25,6 +25,9 @@ module.exports = {
         medium: "32px",
         small: "12px",
       },
+      maxWidth: {
+        container: '1280px',
+      }
     },
   },
   plugins: [],
